@@ -3,7 +3,7 @@ RefreshRateMultitool
 
 RefreshRateMultitool displays a sequence of easily distinguishable images at the rate of your monitor's refresh rate.
 
-![RefreshRateMultitool in action, except the real thing runs much faster](http://img25.imageshack.us/img25/8855/refreshratemultitool.gif)
+![RefreshRateMultitool in action, except the real thing runs much faster](https://dl.dropbox.com/u/8554242/dmitri/projects/RefreshRateMultitool/images/RefreshRateMultitool.gif)
 
 	Usage: RefreshRateMultitool.exe [columns rows]
 	 -columns - if specified, sets the number of columns, default 6
