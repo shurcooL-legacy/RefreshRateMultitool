@@ -15,6 +15,8 @@ This can be useful for a number of things:
 - Finding out if your monitor is actually dropping some of the input frames (e.g. monitor running in a 85 hz mode, but only displaying 60 frames/second, while dropping the other 25 every second)
 - Finding out the black-to-white and white-to-black pixel response times
 
+See more advanced use cases and discussion of the tool [here](http://hardforum.com/showthread.php?t=1423433).
+
 ****** WARNING ******
 =====================
 
